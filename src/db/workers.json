@@ -1,0 +1,455 @@
+{
+  "workers":
+  [
+    {
+      "id": 0,
+      "name": {
+        "first": "Juanita",
+        "last": "Barton"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 4
+    },
+    {
+      "id": 1,
+      "name": {
+        "first": "Pearson",
+        "last": "Ingram"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 5
+    },
+    {
+      "id": 2,
+      "name": {
+        "first": "Mattie",
+        "last": "Hobbs"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 5
+    },
+    {
+      "id": 3,
+      "name": {
+        "first": "Cherie",
+        "last": "Lott"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 0
+    },
+    {
+      "id": 4,
+      "name": {
+        "first": "Odessa",
+        "last": "Norman"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 4
+    },
+    {
+      "id": 5,
+      "name": {
+        "first": "Autumn",
+        "last": "Russell"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 0
+    },
+    {
+      "id": 6,
+      "name": {
+        "first": "Estella",
+        "last": "Wolfe"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 3
+    },
+    {
+      "id": 7,
+      "name": {
+        "first": "Maryann",
+        "last": "Harrell"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 3
+    },
+    {
+      "id": 8,
+      "name": {
+        "first": "Jessie",
+        "last": "Sears"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 3
+    },
+    {
+      "id": 9,
+      "name": {
+        "first": "Wilkerson",
+        "last": "Haney"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 3
+    },
+    {
+      "id": 10,
+      "name": {
+        "first": "Haley",
+        "last": "Kidd"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 3
+    },
+    {
+      "id": 11,
+      "name": {
+        "first": "Ball",
+        "last": "Blankenship"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 2
+    },
+    {
+      "id": 12,
+      "name": {
+        "first": "Kennedy",
+        "last": "Cole"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 2
+    },
+    {
+      "id": 13,
+      "name": {
+        "first": "Pace",
+        "last": "Chapman"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 6
+    },
+    {
+      "id": 14,
+      "name": {
+        "first": "Debbie",
+        "last": "Wallace"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 3
+    },
+    {
+      "id": 15,
+      "name": {
+        "first": "Crosby",
+        "last": "Sargent"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 3
+    },
+    {
+      "id": 16,
+      "name": {
+        "first": "Annabelle",
+        "last": "Foster"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 6
+    },
+    {
+      "id": 17,
+      "name": {
+        "first": "Hendricks",
+        "last": "Kelley"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 1
+    },
+    {
+      "id": 18,
+      "name": {
+        "first": "Marissa",
+        "last": "Ortega"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 4
+    },
+    {
+      "id": 19,
+      "name": {
+        "first": "Meghan",
+        "last": "Carlson"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 0
+    },
+    {
+      "id": 20,
+      "name": {
+        "first": "Julianne",
+        "last": "Day"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 4
+    },
+    {
+      "id": 21,
+      "name": {
+        "first": "House",
+        "last": "Calderon"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 0
+    },
+    {
+      "id": 22,
+      "name": {
+        "first": "Janna",
+        "last": "Townsend"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 0
+    },
+    {
+      "id": 23,
+      "name": {
+        "first": "Bailey",
+        "last": "Mccarty"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 4
+    },
+    {
+      "id": 24,
+      "name": {
+        "first": "Fran",
+        "last": "Oneil"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 2
+    },
+    {
+      "id": 25,
+      "name": {
+        "first": "Townsend",
+        "last": "Saunders"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 6
+    },
+    {
+      "id": 26,
+      "name": {
+        "first": "Haney",
+        "last": "Cooley"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 2
+    },
+    {
+      "id": 27,
+      "name": {
+        "first": "Serena",
+        "last": "Goodman"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 1
+    },
+    {
+      "id": 28,
+      "name": {
+        "first": "Amparo",
+        "last": "Bell"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 2
+    },
+    {
+      "id": 29,
+      "name": {
+        "first": "Carol",
+        "last": "Greene"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 0
+    },
+    {
+      "id": 30,
+      "name": {
+        "first": "Mara",
+        "last": "Phelps"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 2
+    },
+    {
+      "id": 31,
+      "name": {
+        "first": "Carrillo",
+        "last": "Banks"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 1
+    },
+    {
+      "id": 32,
+      "name": {
+        "first": "Juarez",
+        "last": "Barr"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 2
+    },
+    {
+      "id": 33,
+      "name": {
+        "first": "Hart",
+        "last": "Farmer"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 0
+    },
+    {
+      "id": 34,
+      "name": {
+        "first": "Hilary",
+        "last": "Dickson"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 6
+    },
+    {
+      "id": 35,
+      "name": {
+        "first": "Ellis",
+        "last": "Madden"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 2
+    },
+    {
+      "id": 36,
+      "name": {
+        "first": "Calhoun",
+        "last": "Stone"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 3
+    },
+    {
+      "id": 37,
+      "name": {
+        "first": "Larsen",
+        "last": "Buck"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 5
+    },
+    {
+      "id": 38,
+      "name": {
+        "first": "Rosales",
+        "last": "Talley"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 1
+    },
+    {
+      "id": 39,
+      "name": {
+        "first": "Tanya",
+        "last": "Shepherd"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 4
+    },
+    {
+      "id": 40,
+      "name": {
+        "first": "Schmidt",
+        "last": "Acevedo"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 3
+    },
+    {
+      "id": 41,
+      "name": {
+        "first": "Williamson",
+        "last": "Kirk"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 0
+    },
+    {
+      "id": 42,
+      "name": {
+        "first": "Wanda",
+        "last": "Brooks"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 0
+    },
+    {
+      "id": 43,
+      "name": {
+        "first": "Watson",
+        "last": "Allen"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 1
+    },
+    {
+      "id": 44,
+      "name": {
+        "first": "Lillian",
+        "last": "Walton"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 2
+    },
+    {
+      "id": 45,
+      "name": {
+        "first": "Nita",
+        "last": "Moore"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 1
+    },
+    {
+      "id": 46,
+      "name": {
+        "first": "Ruiz",
+        "last": "Ashley"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 4
+    },
+    {
+      "id": 47,
+      "name": {
+        "first": "Todd",
+        "last": "Henderson"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 0
+    },
+    {
+      "id": 48,
+      "name": {
+        "first": "Debra",
+        "last": "Gonzalez"
+      },
+      "description": "Мастер ногтевого сервиса",
+      "idsalon": 5
+    },
+    {
+      "id": 49,
+      "name": {
+        "first": "Brandi",
+        "last": "Blackwell"
+      },
+      "description": "Мастер бровист",
+      "idsalon": 1
+    }
+  ]
+}

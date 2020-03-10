@@ -1,0 +1,11 @@
+{
+    "timetable": [
+      {
+        "locale": "Russian",
+        "dateFormat": "d.m.Y H:i",
+        "theme": "dark",
+        "altInput": true,
+        "enableTime": true 
+      }
+    ]
+} 

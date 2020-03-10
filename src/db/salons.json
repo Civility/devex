@@ -1,0 +1,53 @@
+{
+  "salons": 
+  [
+    {
+      "id": 0,
+      "address": "Autumn Avenue 808",
+      "geo": "-59.786628, -64.034976",
+      "time": "09:00 - 22:00",
+      "picture": "https://picsum.photos/id/24/200/100.jpg",
+      "text": "Velit sit officia mollit pariatur enim. In ea mollit tempor esse in sit aliqua ut occaecat proident commodo culpa veniam. Nostrud velit commodo pariatur nostrud aliqua ut non quis proident cupidatat cillum sit excepteur."
+    },
+    {
+      "id": 1,
+      "address": "Nichols Avenue 586",
+      "geo": "-15.916737, 5.82581",
+      "time": "09:00 - 22:00",
+      "picture": "https://picsum.photos/id/40/200/100.jpg",
+      "text": "In consectetur dolor voluptate ad enim quis excepteur. Cillum id ad non quis incididunt. Ipsum enim non ea sint cupidatat cupidatat ex ad elit aliqua commodo in."
+    },
+    {
+      "id": 2,
+      "address": "Dunham Place 210",
+      "geo": "-18.609085, 71.082126",
+      "time": "09:00 - 22:00",
+      "picture": "https://picsum.photos/id/26/200/100.jpg",
+      "text": "Eiusmod exercitation incididunt amet in nostrud. Consectetur aliqua enim laborum ipsum et enim enim ullamco occaecat non duis ea. Dolore esse proident id ipsum pariatur proident eiusmod officia."
+    },
+    {
+      "id": 3,
+      "address": "Brevoort Place 612",
+      "geo": "-65.059459, -44.034848",
+      "time": "09:00 - 22:00",
+      "picture": "https://picsum.photos/id/20/200/100.jpg",
+      "text": "Commodo ipsum enim ipsum nostrud adipisicing mollit sint incididunt voluptate culpa voluptate excepteur mollit. Mollit culpa deserunt laborum ea in est duis duis. Laborum ea veniam sit ipsum irure adipisicing ea amet nisi."
+    },
+    {
+      "id": 4,
+      "address": "Hewes Street 237",
+      "geo": "-82.767536, -5.143744",
+      "time": "09:00 - 22:00",
+      "picture": "https://picsum.photos/id/32/200/100.jpg",
+      "text": "Est sint ad fugiat in deserunt reprehenderit veniam cupidatat elit occaecat est elit. Ea duis sunt deserunt exercitation nisi dolor consectetur nulla amet excepteur. Enim pariatur laboris exercitation voluptate ea irure labore."
+    },
+    {
+      "id": 5,
+      "address": "Gerry Street 858",
+      "geo": "81.942869, 70.930333",
+      "time": "09:00 - 22:00",
+      "picture": "https://picsum.photos/id/34/200/100.jpg",
+      "text": "Proident sint sunt eu in id officia qui est aliquip. Ad magna esse do magna cupidatat. Do occaecat culpa commodo velit."
+    }
+  ]
+}
